@@ -7,9 +7,11 @@
 
 **This plugin was born from a simple idea – and a lot of heart.**  
 Recently, I lost my job, and thanks to that unexpected turn, I was able to dedicate myself full-time to building this during the holidays. It’s been a labor of love, and I hope you enjoy it as much as I’ve enjoyed creating it. If you’d like to support me while I look for work, that would mean the world. I’ll keep updating and improving Aeternum Seasons over time!
+donation: https://www.paypal.com/paypalme/KinkinxD
 
 **Este plugin nació de una idea sencilla… y mucho corazón.**  
 Recientemente me quedé sin trabajo, y gracias a eso pude dedicarme de lleno a desarrollarlo durante las fechas navideñas. Ha sido un trabajo hecho con cariño, y espero que lo disfruten tanto como yo disfruté crearlo. Si quieren apoyarme mientras encuentro trabajo, ¡sería increíble! Seguiré actualizando y mejorando Aeternum Seasons con el tiempo.
+donacion:https://www.paypal.com/paypalme/KinkinxD
 
 ---
 
