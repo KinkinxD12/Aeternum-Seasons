@@ -61,3 +61,6 @@ Por ahora solo tengo tres traducciones: español, inglés e indonesio.
 Si quieres ayudar a traducirlo a tu idioma, únete al Discord.
 
 ---
+When the day comes that I can no longer maintain the plugin and it’s complete enough, I will open-source the code.
+Right now I’m going through a difficult situation because I was laid off from my job, and I’m hoping that during these holidays a small miracle can become reality and that you might support me by supporting the plugin.
+More than anything, I want the plugin to grow. I’m not asking for anything extra – I just want to keep improving it and deliver a high-quality plugin.
