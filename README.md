@@ -12,6 +12,7 @@ donation: [buymeacoffee.com/kinkinhect6](https://buymeacoffee.com/kinkinhect6)
 **Este plugin nació de una idea sencilla… y mucho corazón.**  
 Recientemente me quedé sin trabajo, y gracias a eso pude dedicarme de lleno a desarrollarlo durante las fechas navideñas. Ha sido un trabajo hecho con cariño, y espero que lo disfruten tanto como yo disfruté crearlo. Si quieren apoyarme mientras encuentro trabajo, ¡sería increíble! Seguiré actualizando y mejorando Aeternum Seasons con el tiempo.
 donacion: [buymeacoffee.com/kinkinhect6](https://buymeacoffee.com/kinkinhect6)
+
 ---
 
 ## 🍂 What is Aeternum Seasons?
