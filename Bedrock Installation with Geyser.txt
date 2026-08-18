@@ -1,0 +1,24 @@
+# ======================================================
+# Instalación Bedrock con Geyser / Geyser Bedrock Setup
+# ======================================================
+
+# Extraer / Extract: dist/Aeternum-Foods-Geyser-Bundle.zip
+# Directorio destino / Target folder: plugins/Geyser-*/
+
+# Estructura requerida / Required structure:
+# plugins/Geyser-*/
+# ├── packs/
+# │   └── Aeternum-Foods-Bedrock.mcpack
+# └── custom_mappings/
+#     ├── aeternum_food_items.json
+#     └── aeternum_food_blocks.json
+
+# Nota Standalone: 'packs' y 'custom_mappings' van junto al JAR / Standalone note: 'packs' and 'custom_mappings' go next to the JAR
+
+gameplay:
+  enable-custom-content: true # Habilita contenido personalizado / Enable custom content
+
+# ⚠️ IMPORTANTE / IMPORTANT:
+# - Reiniciar Geyser tras copiar los archivos / Fully restart Geyser after copying files
+# - NO poner el ZIP de Java en la carpeta 'packs' de Geyser / DO NOT put the Java ZIP in Geyser's 'packs' folder
+# - Pack Java y Pack Bedrock son archivos distintos / Java pack and Bedrock pack are separate assets
